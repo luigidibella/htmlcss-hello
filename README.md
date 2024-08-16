@@ -1,6 +1,5 @@
 Esercizio: Hello HTML
 ===
-
 ## Istruzioni:
 - Creare il repo su GitHub.
 - Clonare il repo con VS Code.
